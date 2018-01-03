@@ -1,11 +1,20 @@
-package cat.udl.eps.ep.data;
 
 public class Currency {
-        public Currency(String name){}
+        /*
+        public Currency(String name){
+                return name;
+        }
 
-        public boolean equals(Object other){}
+        public boolean equals(Object other){
+                return ;
+        }
 
-        public int hashCode(){}
+        public int hashCode(){
+                return;
+        }
 
-        public String toString(){}
+        public String toString(){
+                return;
+        }
+        */
 }
